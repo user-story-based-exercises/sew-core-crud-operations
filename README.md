@@ -7,7 +7,7 @@ SEW | CORE | Simple CRUD Operations
 - A button to create new songs is available.
 - An editor for entering data is available.
 - When clicking the button, the user is taken to a new state showing the editor.
-- A success message is displayed aber creating a new song successfully.
+- A success message is displayed after creating a new song successfully.
 
 ## User Story 2
 *As a musician I want to edit my songs, so that I can keep them up to date and upload new versions of my songs.*
